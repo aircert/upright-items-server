@@ -28,6 +28,8 @@ gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
 
+gem 'random-word', '~> 1.3'
+
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
